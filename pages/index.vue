@@ -1,7 +1,7 @@
 <template>
 <div>
   <Tutorial/>
-<nuxt-link to="/test">test link</nuxt-link>
+<nuxt-link to="/test2">test link</nuxt-link>
 
 </div>
 
